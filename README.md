@@ -1,4 +1,5 @@
 # SCScrollowView
-#这是一个测试文件
-#hhhhhhhhhh
+#使用步骤
+#1.导入文件
+
 sometestfile
